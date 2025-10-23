@@ -1,0 +1,1 @@
+﻿Regra de negócio N24- Um cliente pode ter uma ou várias listas de desejos e cada lista de desejos deve estar associada a apenas um cliente. Cada lista de desejos pode conter nenhum ou vários produtos e um produto pode estar presente em várias listas de desejos. Cada item na lista de desejos deve ter um identificador único dentro da lista de desejos.
